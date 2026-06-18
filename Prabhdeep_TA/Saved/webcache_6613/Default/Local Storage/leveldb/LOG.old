@@ -1,2 +1,8 @@
-2026/03/27-15:25:25.585 6150 Creating DB C:\Users\chhat\Desktop\NABA\Technical Art\Unreal\Import\Prabhdeep_TA\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
-2026/03/27-15:25:25.595 6150 Reusing MANIFEST C:\Users\chhat\Desktop\NABA\Technical Art\Unreal\Import\Prabhdeep_TA\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/18-04:16:03.372 492c Creating DB C:\Users\chhat\Desktop\NABA\Technical Art\Unreal\Import\Technical-Art-Setup\Prabhdeep_TA\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/06/18-04:16:03.380 492c Reusing MANIFEST C:\Users\chhat\Desktop\NABA\Technical Art\Unreal\Import\Technical-Art-Setup\Prabhdeep_TA\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/18-04:28:07.337 492c Level-0 table #5: started
+2026/06/18-04:28:07.342 492c Level-0 table #5: 81456 bytes OK
+2026/06/18-04:28:07.343 492c Delete type=0 #3
+2026/06/18-04:30:39.989 5fd8 Level-0 table #7: started
+2026/06/18-04:30:39.992 5fd8 Level-0 table #7: 73278 bytes OK
+2026/06/18-04:30:39.993 5fd8 Delete type=0 #4
