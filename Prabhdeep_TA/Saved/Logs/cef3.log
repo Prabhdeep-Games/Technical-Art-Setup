@@ -1,5 +1,12 @@
-[24880:25020:0618/043354.398:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[24880:2524:0618/043354.541:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[24880:25020:0618/043354.546:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[6568:24352:0618/043400.012:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-0EC26165E87553962E52925511011DAF will be ignored
-[21224:3856:0618/043400.346:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-E7E72AA0FA06E69CB51B83B52784F606 will be ignored
+[9816:2408:0624/145838.229:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[9816:17512:0624/145838.434:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[9816:2408:0624/145838.492:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[24964:6492:0624/145843.601:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B32E68C4F0A97870148434940A07E576 will be ignored
+[9676:23776:0624/152026.160:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-1F7B223639A009C4C08D840A27799732 will be ignored
+[9816:2408:0624/152108.621:ERROR:menu_runner_views_aura.cc(24)] Window handle is required for default OSR context menu.
+[9816:2408:0624/152108.621:ERROR:menu_manager.cc(198)] Default context menu implementation is not available; canceling the menu
+[9816:2408:0624/154447.211:WARNING:sad_tab.cc(255)] Tab Killed: https://editor.unrealengine.com/
+[9816:2408:0624/154447.281:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=1
+[9816:2408:0624/154447.281:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 1 time(s)
+[9816:2408:0624/154447.283:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[9816:2408:0624/154447.459:WARNING:gpu_process_host.cc(1029)] Reinitialized the GPU process after a crash. The reported initialization time was 147 ms

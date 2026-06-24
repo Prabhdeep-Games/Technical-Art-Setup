@@ -1,8 +1,11 @@
-2026/06/18-04:16:03.372 492c Creating DB C:\Users\chhat\Desktop\NABA\Technical Art\Unreal\Import\Technical-Art-Setup\Prabhdeep_TA\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
-2026/06/18-04:16:03.380 492c Reusing MANIFEST C:\Users\chhat\Desktop\NABA\Technical Art\Unreal\Import\Technical-Art-Setup\Prabhdeep_TA\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/06/18-04:28:07.337 492c Level-0 table #5: started
-2026/06/18-04:28:07.342 492c Level-0 table #5: 81456 bytes OK
-2026/06/18-04:28:07.343 492c Delete type=0 #3
-2026/06/18-04:30:39.989 5fd8 Level-0 table #7: started
-2026/06/18-04:30:39.992 5fd8 Level-0 table #7: 73278 bytes OK
-2026/06/18-04:30:39.993 5fd8 Delete type=0 #4
+2026/06/24-14:58:38.583 5ac8 Reusing MANIFEST C:\Users\chhat\Desktop\NABA\Technical Art\Unreal\Import\Technical-Art-Setup\Prabhdeep_TA\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/24-14:58:38.593 5ac8 Recovering log #6
+2026/06/24-14:58:38.594 5ac8 Level-0 table #9: started
+2026/06/24-14:58:38.604 5ac8 Level-0 table #9: 72370 bytes OK
+2026/06/24-14:58:38.614 5ac8 Delete type=0 #6
+2026/06/24-15:23:26.150 4b5c Level-0 table #12: started
+2026/06/24-15:23:26.158 4b5c Level-0 table #12: 73199 bytes OK
+2026/06/24-15:23:26.163 4b5c Delete type=0 #10
+2026/06/24-15:25:42.000 4b5c Level-0 table #14: started
+2026/06/24-15:25:42.006 4b5c Level-0 table #14: 71585 bytes OK
+2026/06/24-15:25:42.007 4b5c Delete type=0 #11
