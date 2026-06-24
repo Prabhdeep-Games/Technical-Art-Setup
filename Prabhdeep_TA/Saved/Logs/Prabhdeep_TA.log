@@ -4439,3 +4439,1525 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.06.24-16.01.43:396][740]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10988.800781
 [2026.06.24-16.01.44:730][744]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.06.24-16.01.44:730][744]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10989.800781, Update Interval: 338.837860
+[2026.06.24-16.30.01:993][ 13]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.06.24-16.30.01:993][ 13]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.06.24-16.30.37:429][170]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12722.820312
+[2026.06.24-16.30.38:429][173]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.24-16.30.38:429][173]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12723.487305, Update Interval: 339.755249
+[2026.06.24-16.37.06:475][337]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13111.824219
+[2026.06.24-16.37.07:476][340]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.24-16.37.07:476][340]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13112.490234, Update Interval: 352.955719
+[2026.06.24-16.37.56:021][486]LogDerivedDataCache: C:/Users/chhat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.06.24-16.43.45:878][535]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13511.194336
+[2026.06.24-16.43.46:878][538]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.24-16.43.46:878][538]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13511.861328, Update Interval: 317.730652
+[2026.06.24-16.49.46:933][618]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13872.224609
+[2026.06.24-16.49.47:932][621]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.24-16.49.47:932][621]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13872.890625, Update Interval: 307.776733
+[2026.06.24-16.52.21:362][315]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dragon/Dragon_Ani/Dragon.Dragon
+[2026.06.24-16.52.21:364][315]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dragon/Dragon_Ani/Dragon.Dragon
+[2026.06.24-16.52.21:364][315]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dragon/Dragon_Ani/Dragon.Dragon as actor: SkeletalMeshActor /Game/Scene/Scene_Setup.Scene_Setup:PersistentLevel.SkeletalMeshActor_0
+[2026.06.24-16.52.21:365][315]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dragon/Dragon_Ani/Dragon.Dragon as actor: SkeletalMeshActor /Game/Scene/Scene_Setup.Scene_Setup:PersistentLevel.SkeletalMeshActor_0
+[2026.06.24-16.52.22:193][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.06.24-16.52.22:195][363]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2026.06.24-16.52.22:199][363]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dragon/Dragon_Ani/Dragon.Dragon
+[2026.06.24-16.52.22:199][363]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dragon/Dragon_Ani/Dragon.Dragon
+[2026.06.24-16.52.22:200][363]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dragon/Dragon_Ani/Dragon.Dragon as actor: SkeletalMeshActor /Game/Scene/Scene_Setup.Scene_Setup:PersistentLevel.SkeletalMeshActor_1
+[2026.06.24-16.52.22:200][363]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dragon/Dragon_Ani/Dragon.Dragon as actor: SkeletalMeshActor /Game/Scene/Scene_Setup.Scene_Setup:PersistentLevel.SkeletalMeshActor_1
+[2026.06.24-16.53.44:786][191]Cmd: DELETE
+[2026.06.24-16.53.44:786][191]Cmd: ACTOR DELETE
+[2026.06.24-16.53.44:788][191]LogStreaming: Display: FlushAsyncLoading(610): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.24-16.53.44:803][191]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.24-16.53.44:820][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.06.24-16.53.44:825][191]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2026.06.24-16.53.46:549][294]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-16.53.46:590][294]LogFileHelpers: Saving Map: /Game/Scene/Scene_Setup
+[2026.06.24-16.53.46:590][294]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Scene/Scene_Setup] ([1] browsable assets)...
+[2026.06.24-16.53.46:590][294]OBJ SavePackage: Finished generating thumbnails for package [/Game/Scene/Scene_Setup]
+[2026.06.24-16.53.46:621][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.06.24-16.53.46:713][294]LogSavePackage: Moving output files for package: /Game/Scene/Scene_Setup
+[2026.06.24-16.53.46:713][294]LogSavePackage: Moving '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Saved/Scene_Setup98D89F7643A66C8B0F6DF195F66FF298.tmp' to '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Content/Scene/Scene_Setup.umap'
+[2026.06.24-16.53.46:730][294]LogFileHelpers: InternalPromptForCheckoutAndSave took 181.043 ms (total: 8.19 sec)
+[2026.06.24-16.53.46:777][294]LogContentValidation: Enabled validators:
+[2026.06.24-16.53.46:777][294]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.24-16.53.46:777][294]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.24-16.53.46:777][294]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.24-16.53.46:777][294]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.24-16.53.46:777][294]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.24-16.53.46:777][294]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.24-16.53.46:777][294]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.24-16.53.46:777][294]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.24-16.53.46:777][294]AssetCheck: /Game/Scene/Scene_Setup Validating asset
+[2026.06.24-16.53.46:777][294]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.24-16.53.46:777][294]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.24-16.54.25:746][592]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Dragon/Dragon_Ani/Dragon_Anim.Dragon_Anim
+[2026.06.24-16.54.25:746][592]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Dragon/Dragon_Ani/Dragon_Anim.Dragon_Anim
+[2026.06.24-16.54.25:746][592]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dragon/Dragon_Ani/Dragon.Dragon as actor: SkeletalMeshActor /Game/Scene/Scene_Setup.Scene_Setup:PersistentLevel.SkeletalMeshActor_2
+[2026.06.24-16.54.25:747][592]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dragon/Dragon_Ani/Dragon.Dragon as actor: SkeletalMeshActor /Game/Scene/Scene_Setup.Scene_Setup:PersistentLevel.SkeletalMeshActor_2
+[2026.06.24-16.54.26:297][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.06.24-16.54.26:302][624]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2026.06.24-16.54.26:306][624]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Dragon/Dragon_Ani/Dragon_Anim.Dragon_Anim
+[2026.06.24-16.54.26:306][624]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Dragon/Dragon_Ani/Dragon_Anim.Dragon_Anim
+[2026.06.24-16.54.26:307][624]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dragon/Dragon_Ani/Dragon.Dragon as actor: SkeletalMeshActor /Game/Scene/Scene_Setup.Scene_Setup:PersistentLevel.SkeletalMeshActor_3
+[2026.06.24-16.54.26:308][624]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dragon/Dragon_Ani/Dragon.Dragon as actor: SkeletalMeshActor /Game/Scene/Scene_Setup.Scene_Setup:PersistentLevel.SkeletalMeshActor_3
+[2026.06.24-16.54.32:059][954]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.24-16.54.42:443][565]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.24-16.54.42:750][583]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.24-16.55.02:801][776]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Dragon/Dragon_Ani/Dragon_Skeleton.Dragon_Skeleton
+[2026.06.24-16.55.02:801][776]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Dragon/Dragon_Ani/Dragon_Skeleton.Dragon_Skeleton
+[2026.06.24-16.55.02:802][776]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dragon/Dragon_Ani/Dragon.Dragon as actor: SkeletalMeshActor /Game/Scene/Scene_Setup.Scene_Setup:PersistentLevel.SkeletalMeshActor_4
+[2026.06.24-16.55.02:802][776]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dragon/Dragon_Ani/Dragon.Dragon as actor: SkeletalMeshActor /Game/Scene/Scene_Setup.Scene_Setup:PersistentLevel.SkeletalMeshActor_4
+[2026.06.24-16.55.03:566][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.06.24-16.55.03:570][821]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2026.06.24-16.55.03:574][821]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Dragon/Dragon_Ani/Dragon_Skeleton.Dragon_Skeleton
+[2026.06.24-16.55.03:574][821]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Dragon/Dragon_Ani/Dragon_Skeleton.Dragon_Skeleton
+[2026.06.24-16.55.03:575][821]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dragon/Dragon_Ani/Dragon.Dragon as actor: SkeletalMeshActor /Game/Scene/Scene_Setup.Scene_Setup:PersistentLevel.SkeletalMeshActor_5
+[2026.06.24-16.55.03:575][821]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dragon/Dragon_Ani/Dragon.Dragon as actor: SkeletalMeshActor /Game/Scene/Scene_Setup.Scene_Setup:PersistentLevel.SkeletalMeshActor_5
+[2026.06.24-16.55.15:496][516]Cmd: TRANSACTION UNDO
+[2026.06.24-16.55.15:496][516]LogEditorTransaction: Undo Edit Condition Changed
+[2026.06.24-16.55.15:864][530]Cmd: TRANSACTION UNDO
+[2026.06.24-16.55.15:864][530]LogEditorTransaction: Undo Edit Condition Changed
+[2026.06.24-16.55.16:158][544]Cmd: TRANSACTION UNDO
+[2026.06.24-16.55.16:158][544]LogEditorTransaction: Undo Place Objects
+[2026.06.24-16.55.54:945][894]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14240.133789
+[2026.06.24-16.55.55:145][906]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.24-16.55.55:145][906]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14240.318359, Update Interval: 342.042297
+[2026.06.24-16.56.05:280][130]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dragon/Dragon_Ani/Dragon.Dragon
+[2026.06.24-16.56.05:280][130]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dragon/Dragon_Ani/Dragon.Dragon
+[2026.06.24-16.56.05:280][130]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dragon/Dragon_Ani/Dragon.Dragon as actor: SkeletalMeshActor /Game/Scene/Scene_Setup.Scene_Setup:PersistentLevel.SkeletalMeshActor_6
+[2026.06.24-16.56.05:281][130]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dragon/Dragon_Ani/Dragon.Dragon as actor: SkeletalMeshActor /Game/Scene/Scene_Setup.Scene_Setup:PersistentLevel.SkeletalMeshActor_6
+[2026.06.24-16.56.06:560][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.06.24-16.56.06:564][206]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2026.06.24-16.56.06:568][206]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dragon/Dragon_Ani/Dragon.Dragon
+[2026.06.24-16.56.06:568][206]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Dragon/Dragon_Ani/Dragon.Dragon
+[2026.06.24-16.56.06:568][206]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dragon/Dragon_Ani/Dragon.Dragon as actor: SkeletalMeshActor /Game/Scene/Scene_Setup.Scene_Setup:PersistentLevel.SkeletalMeshActor_7
+[2026.06.24-16.56.06:569][206]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Dragon/Dragon_Ani/Dragon.Dragon as actor: SkeletalMeshActor /Game/Scene/Scene_Setup.Scene_Setup:PersistentLevel.SkeletalMeshActor_7
+[2026.06.24-16.56.51:339][462]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.24-16.56.51:344][462]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.06.24-16.56.51:344][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.24-16.56.51:370][462]LogPlayLevel: Creating play world package: /Game/Scene/UEDPIE_0_Scene_Setup
+[2026.06.24-16.56.51:382][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010564s)
+[2026.06.24-16.56.51:382][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/Scene_Setup.Scene_Setup to /Game/Scene/UEDPIE_0_Scene_Setup.Scene_Setup (0.010627s)
+[2026.06.24-16.56.51:398][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.06.24-16.56.51:401][462]LogChaosDD: Creating Chaos Debug Draw Scene for world Scene_Setup
+[2026.06.24-16.56.51:403][462]LogPlayLevel: PIE: World Init took: (0.002331s)
+[2026.06.24-16.56.51:403][462]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.06.24-16.56.51:403][462]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.24-16.56.51:403][462]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.24-16.56.51:403][462]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.24-16.56.51:403][462]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.24-16.56.51:403][462]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.24-16.56.51:403][462]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.24-16.56.51:403][462]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.24-16.56.51:403][462]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.24-16.56.51:403][462]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.24-16.56.51:403][462]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.24-16.56.51:403][462]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.24-16.56.51:406][462]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.24-16.56.51:410][462]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Realtek(R) Audio)'
+[2026.06.24-16.56.51:410][462]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone Array (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.06.24-16.56.51:411][462]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Realtek(R) Audio)'
+[2026.06.24-16.56.51:411][462]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone Array (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.06.24-16.56.51:412][462]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Realtek(R) Audio)'
+[2026.06.24-16.56.51:412][462]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (Realtek(R) Audio)'
+[2026.06.24-16.56.51:449][462]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.06.24-16.56.51:449][462]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.24-16.56.51:449][462]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.24-16.56.51:449][462]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.24-16.56.51:450][462]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.06.24-16.56.51:450][462]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.06.24-16.56.51:452][462]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.06.24-16.56.51:452][462]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.06.24-16.56.51:452][462]LogInit: FAudioDevice initialized with ID 3.
+[2026.06.24-16.56.51:452][462]LogAudio: Display: Audio Device (ID: 3) registered with world 'Scene_Setup'.
+[2026.06.24-16.56.51:452][462]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.06.24-16.56.51:457][462]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.06.24-16.56.51:460][462]LogWorld: Bringing World /Game/Scene/UEDPIE_0_Scene_Setup.Scene_Setup up for play (max tick rate 60) at 2026.06.24-18.56.51
+[2026.06.24-16.56.51:461][462]LogWorld: Bringing up level for play took: 0.003648
+[2026.06.24-16.56.51:463][462]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2026.06.24-16.56.51:466][462]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.06.24-16.56.51:470][462]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_ThirdPersonCharacter_C]
+[2026.06.24-16.56.51:470][462]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2026.06.24-16.56.51:470][462]PIE: Server logged in
+[2026.06.24-16.56.51:471][462]PIE: Play in editor total start time 0.128 seconds.
+[2026.06.24-16.56.51:516][463]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.24-16.56.57:192][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.24-16.56.57:192][788]LogWorld: BeginTearingDown for /Game/Scene/UEDPIE_0_Scene_Setup
+[2026.06.24-16.56.57:192][788]LogWorld: UWorld::CleanupWorld for Scene_Setup, bSessionEnded=true, bCleanupResources=true
+[2026.06.24-16.56.57:193][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-16.56.57:195][788]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.24-16.56.57:197][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-16.56.57:214][788]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.24-16.56.57:215][788]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.06.24-16.56.57:215][788]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.06.24-16.56.57:218][788]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.06.24-16.56.57:221][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.24-16.56.57:224][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.06.24-16.56.57:281][789]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2026.06.24-16.57.04:380][213]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.24-16.57.04:716][233]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.24-16.57.11:741][653]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-16.57.11:785][653]LogFileHelpers: Saving Map: /Game/Scene/Scene_Setup
+[2026.06.24-16.57.11:785][653]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Scene/Scene_Setup] ([1] browsable assets)...
+[2026.06.24-16.57.11:785][653]OBJ SavePackage: Finished generating thumbnails for package [/Game/Scene/Scene_Setup]
+[2026.06.24-16.57.11:816][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.06.24-16.57.11:904][653]LogSavePackage: Moving output files for package: /Game/Scene/Scene_Setup
+[2026.06.24-16.57.11:905][653]LogSavePackage: Moving '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Saved/Scene_SetupA21BF0BA4DF4866C5F32BB91456C5624.tmp' to '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Content/Scene/Scene_Setup.umap'
+[2026.06.24-16.57.11:922][653]LogFileHelpers: InternalPromptForCheckoutAndSave took 181.188 ms (total: 8.37 sec)
+[2026.06.24-16.57.11:968][653]LogContentValidation: Enabled validators:
+[2026.06.24-16.57.11:968][653]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.24-16.57.11:968][653]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.24-16.57.11:968][653]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.24-16.57.11:968][653]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.24-16.57.11:968][653]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.24-16.57.11:968][653]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.24-16.57.11:968][653]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.24-16.57.11:968][653]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.24-16.57.11:968][653]AssetCheck: /Game/Scene/Scene_Setup Validating asset
+[2026.06.24-16.57.11:968][653]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.24-16.57.11:969][653]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.24-16.57.13:152][724]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.24-16.57.13:158][724]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.06.24-16.57.13:158][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.24-16.57.13:158][724]LogPlayLevel: Creating play world package: /Game/Scene/UEDPIE_0_Scene_Setup
+[2026.06.24-16.57.13:168][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010235s)
+[2026.06.24-16.57.13:168][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/Scene_Setup.Scene_Setup to /Game/Scene/UEDPIE_0_Scene_Setup.Scene_Setup (0.010272s)
+[2026.06.24-16.57.13:187][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.06.24-16.57.13:188][724]LogChaosDD: Creating Chaos Debug Draw Scene for world Scene_Setup
+[2026.06.24-16.57.13:191][724]LogPlayLevel: PIE: World Init took: (0.001541s)
+[2026.06.24-16.57.13:191][724]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.06.24-16.57.13:191][724]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.24-16.57.13:191][724]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.24-16.57.13:191][724]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.24-16.57.13:191][724]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.24-16.57.13:191][724]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.24-16.57.13:191][724]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.24-16.57.13:191][724]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.24-16.57.13:191][724]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.24-16.57.13:191][724]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.24-16.57.13:191][724]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.24-16.57.13:191][724]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.24-16.57.13:193][724]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.24-16.57.13:197][724]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Realtek(R) Audio)'
+[2026.06.24-16.57.13:197][724]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone Array (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.06.24-16.57.13:198][724]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Realtek(R) Audio)'
+[2026.06.24-16.57.13:198][724]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone Array (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.06.24-16.57.13:200][724]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Realtek(R) Audio)'
+[2026.06.24-16.57.13:200][724]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (Realtek(R) Audio)'
+[2026.06.24-16.57.13:243][724]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.06.24-16.57.13:243][724]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.24-16.57.13:243][724]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.24-16.57.13:243][724]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.24-16.57.13:243][724]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.06.24-16.57.13:243][724]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.06.24-16.57.13:246][724]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.06.24-16.57.13:246][724]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.06.24-16.57.13:246][724]LogInit: FAudioDevice initialized with ID 4.
+[2026.06.24-16.57.13:246][724]LogAudio: Display: Audio Device (ID: 4) registered with world 'Scene_Setup'.
+[2026.06.24-16.57.13:247][724]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.06.24-16.57.13:250][724]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.06.24-16.57.13:253][724]LogWorld: Bringing World /Game/Scene/UEDPIE_0_Scene_Setup.Scene_Setup up for play (max tick rate 60) at 2026.06.24-18.57.13
+[2026.06.24-16.57.13:253][724]LogWorld: Bringing up level for play took: 0.003280
+[2026.06.24-16.57.13:256][724]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2026.06.24-16.57.13:256][724]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.06.24-16.57.13:258][724]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_ThirdPersonCharacter_C]
+[2026.06.24-16.57.13:258][724]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2026.06.24-16.57.13:259][724]PIE: Server logged in
+[2026.06.24-16.57.13:260][724]PIE: Play in editor total start time 0.102 seconds.
+[2026.06.24-16.57.13:300][725]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.24-16.57.16:254][901]Cmd: DebugManager.CycleToPreviousColumn
+[2026.06.24-16.57.17:254][961]Cmd: DebugManager.CycleToPreviousColumn
+[2026.06.24-16.57.17:737][990]Cmd: DebugManager.CycleToPreviousColumn
+[2026.06.24-16.57.26:631][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.24-16.57.26:632][521]LogWorld: BeginTearingDown for /Game/Scene/UEDPIE_0_Scene_Setup
+[2026.06.24-16.57.26:632][521]LogWorld: UWorld::CleanupWorld for Scene_Setup, bSessionEnded=true, bCleanupResources=true
+[2026.06.24-16.57.26:632][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-16.57.26:635][521]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.24-16.57.26:637][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-16.57.26:656][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.24-16.57.26:656][521]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.06.24-16.57.26:657][521]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.06.24-16.57.26:658][521]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.06.24-16.57.26:666][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.06.24-16.57.26:723][522]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2026.06.24-16.57.33:202][655]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.24-16.57.53:712][865]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.06.24-16.58.10:750][956]LogSlate: Window 'Choose a location to import the content into' being destroyed
+[2026.06.24-16.58.48:850][198]LogStreaming: Display: FlushAsyncLoading(615): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.24-16.58.50:838][198]LogSlate: Window 'New Level' being destroyed
+[2026.06.24-16.58.50:845][198]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.06.24-16.58.50:884][198]LogWorld: UWorld::CleanupWorld for Scene_Setup, bSessionEnded=true, bCleanupResources=true
+[2026.06.24-16.58.50:884][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-16.58.50:904][198]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.24-16.58.50:920][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.06.24-16.58.50:961][198]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2026.06.24-16.58.50:961][198]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_1
+[2026.06.24-16.58.50:972][198]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.06.24-16.58.50:992][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.06.24-16.58.50:994][198]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.06.24-16.58.50:994][198]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.154ms to complete.
+[2026.06.24-16.58.51:018][199]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.24-16.58.52:924][309]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.24-16.58.52:930][309]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.06.24-16.58.52:930][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.24-16.58.52:930][309]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2026.06.24-16.58.52:932][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001673s)
+[2026.06.24-16.58.52:932][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.001709s)
+[2026.06.24-16.58.52:950][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.06.24-16.58.52:951][309]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_1
+[2026.06.24-16.58.52:953][309]LogPlayLevel: PIE: World Init took: (0.001530s)
+[2026.06.24-16.58.52:953][309]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.06.24-16.58.52:953][309]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.24-16.58.52:953][309]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.24-16.58.52:953][309]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.24-16.58.52:953][309]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.24-16.58.52:953][309]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.24-16.58.52:953][309]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.24-16.58.52:953][309]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.24-16.58.52:953][309]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.24-16.58.52:953][309]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.24-16.58.52:953][309]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.24-16.58.52:953][309]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.24-16.58.52:955][309]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.24-16.58.52:959][309]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Realtek(R) Audio)'
+[2026.06.24-16.58.52:960][309]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone Array (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.06.24-16.58.52:960][309]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Realtek(R) Audio)'
+[2026.06.24-16.58.52:960][309]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone Array (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.06.24-16.58.52:961][309]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Realtek(R) Audio)'
+[2026.06.24-16.58.52:961][309]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (Realtek(R) Audio)'
+[2026.06.24-16.58.53:004][309]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.06.24-16.58.53:005][309]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.24-16.58.53:005][309]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.24-16.58.53:005][309]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.24-16.58.53:006][309]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.06.24-16.58.53:006][309]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.06.24-16.58.53:008][309]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.06.24-16.58.53:008][309]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.06.24-16.58.53:008][309]LogInit: FAudioDevice initialized with ID 5.
+[2026.06.24-16.58.53:008][309]LogAudio: Display: Audio Device (ID: 5) registered with world 'Untitled_1'.
+[2026.06.24-16.58.53:008][309]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.06.24-16.58.53:010][309]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.06.24-16.58.53:011][309]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2026.06.24-18.58.53
+[2026.06.24-16.58.53:011][309]LogWorld: Bringing up level for play took: 0.000574
+[2026.06.24-16.58.53:013][309]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2026.06.24-16.58.53:018][309]PIE: Server logged in
+[2026.06.24-16.58.53:020][309]PIE: Play in editor total start time 0.09 seconds.
+[2026.06.24-16.58.53:056][310]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.24-16.58.54:065][369]Cmd: DebugManager.CycleToPreviousColumn
+[2026.06.24-16.58.56:312][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.24-16.58.56:313][500]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2026.06.24-16.58.56:313][500]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2026.06.24-16.58.56:314][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-16.58.56:316][500]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.24-16.58.56:320][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-16.58.56:336][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.24-16.58.56:336][500]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.06.24-16.58.56:336][500]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.06.24-16.58.56:338][500]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.06.24-16.58.56:344][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.06.24-16.58.56:368][501]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2026.06.24-16.59.00:006][718]Cmd: EDIT COPY
+[2026.06.24-16.59.01:698][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.06.24-16.59.01:701][817]LogStreaming: Display: FlushAsyncLoading(618): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.24-16.59.01:718][817]LogTexture: Display: Building textures: /Game/Scene/Scene_Setup.Scene_Setup:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.06.24-16.59.01:718][817]LogTexture: Display: Building textures: /Game/Scene/Scene_Setup.Scene_Setup:PersistentLevel.Landscape_0.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.06.24-16.59.01:720][817]LogTexture: Display: Building textures: /Game/Scene/Scene_Setup.Scene_Setup:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.06.24-16.59.01:720][817]LogTexture: Display: Building textures: /Game/Scene/Scene_Setup.Scene_Setup:PersistentLevel.Landscape_0.Heightmap_3 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.06.24-16.59.01:785][817]LogChaosDD: Creating Chaos Debug Draw Scene for world Scene_Setup
+[2026.06.24-16.59.01:837][817]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scene/Scene_Setup.Scene_Setup
+[2026.06.24-16.59.01:837][817]Cmd: MAP LOAD FILE="../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Content/Scene/Scene_Setup.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.06.24-16.59.01:854][817]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2026.06.24-16.59.01:854][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-16.59.01:874][817]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.24-16.59.01:875][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.06.24-16.59.01:880][817]LogWorld: UWorld::CleanupWorld for Scene_Setup, bSessionEnded=true, bCleanupResources=true
+[2026.06.24-16.59.01:880][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-16.59.01:911][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.06.24-16.59.01:930][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.06.24-16.59.01:997][817]LogAudio: Display: Audio Device (ID: 1) registered with world 'Scene_Setup'.
+[2026.06.24-16.59.01:997][817]LogChaosDD: Creating Chaos Debug Draw Scene for world Scene_Setup
+[2026.06.24-16.59.02:037][817]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.06.24-16.59.02:060][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.06.24-16.59.02:067][817]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.06.24-16.59.02:067][817]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.046ms to complete.
+[2026.06.24-16.59.02:181][819]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.24-16.59.07:945][164]Cmd: EDIT PASTE
+[2026.06.24-16.59.07:950][164]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.06.24-16.59.11:010][346]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.24-16.59.25:675][224]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.24-16.59.27:930][356]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.24-16.59.32:496][624]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.06.24-16.59.33:233][668]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.24-16.59.52:201][803]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.06.24-16.59.53:442][877]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.06.24-16.59.53:659][890]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.06.24-16.59.54:783][957]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.06.24-16.59.56:852][ 79]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.06.24-16.59.57:839][135]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.06.24-16.59.58:613][181]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.06.24-16.59.59:354][225]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.24-16.59.59:359][225]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.06.24-16.59.59:359][225]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.24-16.59.59:381][225]LogPlayLevel: Creating play world package: /Game/Scene/UEDPIE_0_Scene_Setup
+[2026.06.24-16.59.59:393][225]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011395s)
+[2026.06.24-16.59.59:393][225]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/Scene_Setup.Scene_Setup to /Game/Scene/UEDPIE_0_Scene_Setup.Scene_Setup (0.011435s)
+[2026.06.24-16.59.59:414][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.06.24-16.59.59:417][225]LogChaosDD: Creating Chaos Debug Draw Scene for world Scene_Setup
+[2026.06.24-16.59.59:419][225]LogPlayLevel: PIE: World Init took: (0.001845s)
+[2026.06.24-16.59.59:419][225]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.06.24-16.59.59:419][225]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.24-16.59.59:419][225]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.24-16.59.59:419][225]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.24-16.59.59:419][225]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.24-16.59.59:419][225]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.24-16.59.59:419][225]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.24-16.59.59:419][225]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.24-16.59.59:419][225]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.24-16.59.59:419][225]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.24-16.59.59:419][225]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.24-16.59.59:419][225]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.24-16.59.59:421][225]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.24-16.59.59:425][225]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Realtek(R) Audio)'
+[2026.06.24-16.59.59:425][225]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone Array (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.06.24-16.59.59:426][225]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Realtek(R) Audio)'
+[2026.06.24-16.59.59:426][225]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone Array (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.06.24-16.59.59:427][225]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Realtek(R) Audio)'
+[2026.06.24-16.59.59:428][225]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (Realtek(R) Audio)'
+[2026.06.24-16.59.59:468][225]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.06.24-16.59.59:468][225]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.24-16.59.59:468][225]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.24-16.59.59:468][225]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.24-16.59.59:470][225]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.06.24-16.59.59:470][225]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.06.24-16.59.59:472][225]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.06.24-16.59.59:472][225]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.06.24-16.59.59:472][225]LogInit: FAudioDevice initialized with ID 6.
+[2026.06.24-16.59.59:472][225]LogAudio: Display: Audio Device (ID: 6) registered with world 'Scene_Setup'.
+[2026.06.24-16.59.59:472][225]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.06.24-16.59.59:474][225]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.06.24-16.59.59:478][225]LogWorld: Bringing World /Game/Scene/UEDPIE_0_Scene_Setup.Scene_Setup up for play (max tick rate 60) at 2026.06.24-18.59.59
+[2026.06.24-16.59.59:478][225]LogWorld: Bringing up level for play took: 0.003568
+[2026.06.24-16.59.59:481][225]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2026.06.24-16.59.59:484][225]PIE: Server logged in
+[2026.06.24-16.59.59:485][225]PIE: Play in editor total start time 0.126 seconds.
+[2026.06.24-16.59.59:528][226]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.24-17.00.06:767][659]Cmd: DebugManager.CycleToPreviousColumn
+[2026.06.24-17.00.12:043][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.24-17.00.12:044][971]LogWorld: BeginTearingDown for /Game/Scene/UEDPIE_0_Scene_Setup
+[2026.06.24-17.00.12:044][971]LogWorld: UWorld::CleanupWorld for Scene_Setup, bSessionEnded=true, bCleanupResources=true
+[2026.06.24-17.00.12:045][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-17.00.12:048][971]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.24-17.00.12:050][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-17.00.12:069][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.24-17.00.12:069][971]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.06.24-17.00.12:069][971]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.06.24-17.00.12:071][971]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.06.24-17.00.12:080][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.06.24-17.00.12:129][972]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2026.06.24-17.00.24:690][721]Cmd: DELETE
+[2026.06.24-17.00.24:690][721]Cmd: ACTOR DELETE
+[2026.06.24-17.00.24:693][721]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.24-17.00.24:713][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.06.24-17.00.24:715][721]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2026.06.24-17.00.26:828][845]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.24-17.00.36:440][414]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-17.00.36:482][414]LogFileHelpers: Saving Map: /Game/Scene/Scene_Setup
+[2026.06.24-17.00.36:482][414]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Scene/Scene_Setup] ([1] browsable assets)...
+[2026.06.24-17.00.36:482][414]OBJ SavePackage: Finished generating thumbnails for package [/Game/Scene/Scene_Setup]
+[2026.06.24-17.00.36:517][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.06.24-17.00.36:750][414]LogSavePackage: Moving output files for package: /Game/Scene/Scene_Setup
+[2026.06.24-17.00.36:750][414]LogSavePackage: Moving '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Saved/Scene_Setup389DEF474975B3D9CE35D29BE77FD86B.tmp' to '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Content/Scene/Scene_Setup.umap'
+[2026.06.24-17.00.36:768][414]LogFileHelpers: InternalPromptForCheckoutAndSave took 327.685 ms (total: 8.70 sec)
+[2026.06.24-17.00.36:809][414]LogContentValidation: Enabled validators:
+[2026.06.24-17.00.36:809][414]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.24-17.00.36:809][414]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.24-17.00.36:809][414]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.24-17.00.36:809][414]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.24-17.00.36:809][414]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.24-17.00.36:809][414]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.24-17.00.36:809][414]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.24-17.00.36:809][414]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.24-17.00.36:809][414]AssetCheck: /Game/Scene/Scene_Setup Validating asset
+[2026.06.24-17.00.36:809][414]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.24-17.00.36:809][414]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.24-17.00.43:275][798]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.24-17.00.43:280][798]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.06.24-17.00.43:280][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.24-17.00.43:301][798]LogPlayLevel: Creating play world package: /Game/Scene/UEDPIE_0_Scene_Setup
+[2026.06.24-17.00.43:311][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010602s)
+[2026.06.24-17.00.43:311][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/Scene_Setup.Scene_Setup to /Game/Scene/UEDPIE_0_Scene_Setup.Scene_Setup (0.010636s)
+[2026.06.24-17.00.43:331][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.06.24-17.00.43:332][798]LogChaosDD: Creating Chaos Debug Draw Scene for world Scene_Setup
+[2026.06.24-17.00.43:334][798]LogPlayLevel: PIE: World Init took: (0.001526s)
+[2026.06.24-17.00.43:334][798]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.06.24-17.00.43:334][798]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.24-17.00.43:334][798]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.24-17.00.43:334][798]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.24-17.00.43:334][798]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.24-17.00.43:334][798]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.24-17.00.43:334][798]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.24-17.00.43:334][798]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.24-17.00.43:334][798]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.24-17.00.43:334][798]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.24-17.00.43:334][798]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.24-17.00.43:334][798]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.24-17.00.43:336][798]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.24-17.00.43:340][798]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Realtek(R) Audio)'
+[2026.06.24-17.00.43:340][798]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone Array (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.06.24-17.00.43:341][798]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Realtek(R) Audio)'
+[2026.06.24-17.00.43:341][798]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone Array (Intel® Smart Sound Technology for Digital Microphones)'
+[2026.06.24-17.00.43:342][798]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Realtek(R) Audio)'
+[2026.06.24-17.00.43:342][798]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (Realtek(R) Audio)'
+[2026.06.24-17.00.43:383][798]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.06.24-17.00.43:384][798]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.24-17.00.43:384][798]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.24-17.00.43:384][798]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.24-17.00.43:384][798]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.06.24-17.00.43:384][798]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.06.24-17.00.43:387][798]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.06.24-17.00.43:387][798]LogInit: FAudioDevice initialized with ID 7.
+[2026.06.24-17.00.43:387][798]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.06.24-17.00.43:387][798]LogAudio: Display: Audio Device (ID: 7) registered with world 'Scene_Setup'.
+[2026.06.24-17.00.43:387][798]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.06.24-17.00.43:390][798]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.06.24-17.00.43:393][798]LogWorld: Bringing World /Game/Scene/UEDPIE_0_Scene_Setup.Scene_Setup up for play (max tick rate 60) at 2026.06.24-19.00.43
+[2026.06.24-17.00.43:393][798]LogWorld: Bringing up level for play took: 0.003336
+[2026.06.24-17.00.43:395][798]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2026.06.24-17.00.43:398][798]PIE: Server logged in
+[2026.06.24-17.00.43:400][798]PIE: Play in editor total start time 0.12 seconds.
+[2026.06.24-17.00.43:443][799]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.24-17.02.02:192][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.24-17.02.02:192][810]LogWorld: BeginTearingDown for /Game/Scene/UEDPIE_0_Scene_Setup
+[2026.06.24-17.02.02:192][810]LogWorld: UWorld::CleanupWorld for Scene_Setup, bSessionEnded=true, bCleanupResources=true
+[2026.06.24-17.02.02:194][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-17.02.02:196][810]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.24-17.02.02:200][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-17.02.02:216][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.24-17.02.02:217][810]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.06.24-17.02.02:217][810]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.06.24-17.02.02:220][810]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.06.24-17.02.02:229][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.06.24-17.02.02:284][811]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2026.06.24-17.02.08:574][182]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.24-17.02.09:112][214]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.24-17.02.10:384][288]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.24-17.02.24:036][ 90]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14629.025391
+[2026.06.24-17.02.24:236][102]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.24-17.02.24:236][102]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14629.208984, Update Interval: 351.831421
+[2026.06.24-17.02.24:796][136]Cmd: DELETE
+[2026.06.24-17.02.24:796][136]Cmd: ACTOR DELETE
+[2026.06.24-17.02.24:799][136]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2026.06.24-17.02.24:813][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.06.24-17.02.24:818][136]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2026.06.24-17.02.27:856][316]Cmd: DELETE
+[2026.06.24-17.02.27:856][316]Cmd: ACTOR DELETE
+[2026.06.24-17.02.27:858][316]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2026.06.24-17.02.27:878][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.06.24-17.02.27:880][316]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2026.06.24-17.02.36:550][833]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-17.02.36:594][833]LogFileHelpers: Saving Map: /Game/Scene/Scene_Setup
+[2026.06.24-17.02.36:594][833]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Scene/Scene_Setup] ([1] browsable assets)...
+[2026.06.24-17.02.36:594][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/Scene/Scene_Setup]
+[2026.06.24-17.02.36:629][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.06.24-17.02.36:714][833]LogSavePackage: Moving output files for package: /Game/Scene/Scene_Setup
+[2026.06.24-17.02.36:714][833]LogSavePackage: Moving '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Saved/Scene_Setup6200BF9F4280975590EDECB0343DB617.tmp' to '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Content/Scene/Scene_Setup.umap'
+[2026.06.24-17.02.36:734][833]LogFileHelpers: InternalPromptForCheckoutAndSave took 184.589 ms (total: 8.88 sec)
+[2026.06.24-17.02.36:773][833]LogContentValidation: Enabled validators:
+[2026.06.24-17.02.36:773][833]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.24-17.02.36:773][833]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.24-17.02.36:773][833]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.24-17.02.36:773][833]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.24-17.02.36:773][833]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.24-17.02.36:773][833]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.24-17.02.36:773][833]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.24-17.02.36:773][833]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.24-17.02.36:774][833]AssetCheck: /Game/Scene/Scene_Setup Validating asset
+[2026.06.24-17.02.36:774][833]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.24-17.02.36:774][833]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.24-17.02.47:555][464]Cmd: DELETE
+[2026.06.24-17.02.47:556][464]Cmd: ACTOR DELETE
+[2026.06.24-17.02.47:558][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.24-17.02.47:575][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.06.24-17.02.47:578][464]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2026.06.24-17.02.48:816][535]Cmd: DELETE
+[2026.06.24-17.02.48:816][535]Cmd: ACTOR DELETE
+[2026.06.24-17.02.48:819][535]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.24-17.02.48:837][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.06.24-17.02.48:840][535]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2026.06.24-17.02.49:572][577]Cmd: DELETE
+[2026.06.24-17.02.49:572][577]Cmd: ACTOR DELETE
+[2026.06.24-17.02.49:575][577]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.24-17.02.49:594][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.06.24-17.02.49:597][577]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2026.06.24-17.03.04:883][778]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-17.03.04:931][778]LogFileHelpers: Saving Map: /Game/Scene/Scene_Setup
+[2026.06.24-17.03.04:931][778]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Scene/Scene_Setup] ([1] browsable assets)...
+[2026.06.24-17.03.04:931][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/Scene/Scene_Setup]
+[2026.06.24-17.03.04:963][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.06.24-17.03.05:044][778]LogSavePackage: Moving output files for package: /Game/Scene/Scene_Setup
+[2026.06.24-17.03.05:044][778]LogSavePackage: Moving '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Saved/Scene_Setup3A1DAF6B451E11657D663A9ED8EB4042.tmp' to '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Content/Scene/Scene_Setup.umap'
+[2026.06.24-17.03.05:062][778]LogFileHelpers: InternalPromptForCheckoutAndSave took 178.300 ms (total: 9.06 sec)
+[2026.06.24-17.03.05:110][778]LogContentValidation: Enabled validators:
+[2026.06.24-17.03.05:110][778]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.24-17.03.05:110][778]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.24-17.03.05:110][778]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.24-17.03.05:110][778]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.24-17.03.05:110][778]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.24-17.03.05:110][778]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.24-17.03.05:110][778]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.24-17.03.05:110][778]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.24-17.03.05:110][778]AssetCheck: /Game/Scene/Scene_Setup Validating asset
+[2026.06.24-17.03.05:110][778]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.24-17.03.05:110][778]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.24-17.03.57:310][780]LogSlate: Took 0.006984 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.06.24-17.04.01:123][  1]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.06.24-17.04.03:348][128]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display: ================================================
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display: Total job queries 1,073, among them cache hits 242 (22.55%), DDC hits 507 (47.25%), Duplicates 98 (9.13%)
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display: Tracking 733 distinct input hashes that result in 480 distinct outputs (65.48%)
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display: RAM used: 5.70 MiB of 1.60 GiB budget. Usage: 0.35%
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display: Shaders Compiled: 226
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display: Jobs assigned 226, completed 226 (100%)
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display: Average time worker was idle: 1391.02 s
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display: Time job spent in pending queue: average 0.60 s, longest 2.70 s
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display: Job execution time: average 1.04 s, max 2.72 s
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display: Job life time (pending + execution): average 1.64 s, max 3.25
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display: Shader code size: total 2.474 MiB, numShaders 234, average 10.827 KiB, min 1.727 KiB, max 51.711 KiB
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.95 s
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display: Jobs were issued in 145 batches (only local compilation was used), average 1.56 jobs/batch
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display: Average processing rate: 15.12 jobs/sec
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display: Total thread time: 74.977 s
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display: Total thread preprocess time: 16.468 s
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display: Percentage time preprocessing: 21.96%
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display: Effective parallelization: 5.02 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.313526
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 1.08 sec, max 1.08 sec, min 1.08 sec)
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 1.06 sec, max 1.25 sec, min 0.86 sec)
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    7 times, average 0.88 sec, max 0.97 sec, min 0.66 sec)
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   12 times, average 0.85 sec, max 1.08 sec, min 0.60 sec)
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    3 times, average 0.78 sec, max 1.08 sec, min 0.63 sec)
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 13.59% of total time (compiled   12 times, average 0.85 sec, max 1.08 sec, min 0.60 sec)
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display:                                             FDebugViewModePS - 12.72% of total time (compiled   16 times, average 0.60 sec, max 1.01 sec, min 0.37 sec)
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 8.20% of total time (compiled    7 times, average 0.88 sec, max 0.97 sec, min 0.66 sec)
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 6.15% of total time (compiled    7 times, average 0.66 sec, max 0.85 sec, min 0.39 sec)
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.42% of total time (compiled   18 times, average 0.23 sec, max 0.36 sec, min 0.12 sec)
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display: === Material stats ===
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display: Materials Translated:    245
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display: Material Total Translate Time: 0.24 s
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display: Material Translation Only: 0.15 s (65%)
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display: Material Cache Hits: 29 (12%)
+[2026.06.24-17.05.58:476][447]LogShaderCompilers: Display: ================================================
+[2026.06.24-17.08.48:171][956]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15013.083984
+[2026.06.24-17.08.49:173][959]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.24-17.08.49:173][959]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15013.751953, Update Interval: 309.690247
+[2026.06.24-17.14.53:160][367]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15378.074219
+[2026.06.24-17.14.54:158][370]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.24-17.14.54:158][370]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15378.742188, Update Interval: 344.285400
+[2026.06.24-17.21.12:875][506]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15757.792969
+[2026.06.24-17.21.13:873][509]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.24-17.21.13:873][509]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15758.458008, Update Interval: 301.530823
+[2026.06.24-17.27.09:921][577]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16114.840820
+[2026.06.24-17.27.10:923][580]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.24-17.27.10:923][580]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16115.506836, Update Interval: 340.322876
+[2026.06.24-17.33.37:312][739]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16502.275391
+[2026.06.24-17.33.38:313][742]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.24-17.33.38:313][742]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16502.941406, Update Interval: 336.572784
+[2026.06.24-17.37.56:020][500]LogDerivedDataCache: C:/Users/chhat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.06.24-17.40.01:580][876]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16886.638672
+[2026.06.24-17.40.02:580][879]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.24-17.40.02:580][879]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16887.304688, Update Interval: 321.319611
+[2026.06.24-17.45.54:964][936]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17240.185547
+[2026.06.24-17.45.55:964][939]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.24-17.45.55:964][940]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17240.853516, Update Interval: 359.078949
+[2026.06.24-17.52.27:346][113]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17632.697266
+[2026.06.24-17.52.28:345][116]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.24-17.52.28:345][116]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17633.363281, Update Interval: 312.328857
+[2026.06.24-17.58.22:394][178]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17987.771484
+[2026.06.24-17.58.23:392][181]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.24-17.58.23:393][181]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17988.439453, Update Interval: 354.803314
+[2026.06.24-18.05.08:792][397]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18394.248047
+[2026.06.24-18.05.09:792][400]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.24-18.05.09:792][401]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18394.914062, Update Interval: 307.785889
+[2026.06.24-18.17.43:718][275]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19149.214844
+[2026.06.24-18.17.44:718][278]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.24-18.17.44:718][278]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19149.880859, Update Interval: 357.388824
+[2026.06.24-18.24.38:096][302]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19563.849609
+[2026.06.24-18.24.39:097][305]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.24-18.24.39:097][305]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19564.515625, Update Interval: 344.054688
+[2026.06.24-18.31.08:481][473]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19954.410156
+[2026.06.24-18.31.09:481][476]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.24-18.31.09:481][476]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19955.078125, Update Interval: 336.283447
+[2026.06.24-18.35.10:053][198]LogAssetTools: Warning: Failed to import 'C:\Users\chhat\Desktop\NABA\Technical Art\Textures\Dragon\Dragon_Body.spsm'. Unknown extension 'spsm'.
+[2026.06.24-18.35.25:009][ 26]LogStreaming: Display: FlushAsyncLoading(628): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.24-18.35.25:021][ 26]LogTexture: Display: Building textures: /Game/Dragon/Drag_Material/M_BlackDragonFur_Base_color.M_BlackDragonFur_Base_color (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 119.708323 MB), EncodeSpeed: Fast
+[2026.06.24-18.35.25:021][ 26]LogTexture: Display: Building textures: /Game/Dragon/Drag_Material/M_BlackDragonFur_Opacity.M_BlackDragonFur_Opacity (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 119.708323 MB), EncodeSpeed: Fast
+[2026.06.24-18.35.25:083][ 26]LogTexture: Display: Building textures: /Game/Dragon/Drag_Material/M_BlackDragonFur_Normal_OpenGL.M_BlackDragonFur_Normal_OpenGL (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 308.499988 MB), EncodeSpeed: Fast
+[2026.06.24-18.35.25:140][ 26]LogTexture: Display: Building textures: /Game/Dragon/Drag_Material/M_BlackDragonBody_Mixed_AO.M_BlackDragonBody_Mixed_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1072.999983 MB), EncodeSpeed: Fast
+[2026.06.24-18.35.25:315][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   7.85ms
+[2026.06.24-18.35.25:424][ 26]LogTexture: Display: Building textures: /Game/Dragon/Drag_Material/M_BlackDragonBody_Base_color.M_BlackDragonBody_Base_color (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.06.24-18.35.25:444][ 26]LogTexture: Display: Building textures: /Game/Dragon/Drag_Material/BKGND_Base_color.BKGND_Base_color (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.06.24-18.35.25:677][ 26]LogTexture: Display: Building textures: /Game/Dragon/Drag_Material/M_BlackDragonBody_Normal_OpenGL.M_BlackDragonBody_Normal_OpenGL (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1298.499988 MB), EncodeSpeed: Fast
+[2026.06.24-18.35.26:711][ 26]LogSlate: Window 'Delete Assets' being destroyed
+[2026.06.24-18.35.26:791][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.06.24-18.35.26:814][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.06.24-18.35.26:833][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.06.24-18.35.26:876][ 26]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.24-18.35.27:543][ 62]LogStreaming: Display: FlushAsyncLoading(636): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.24-18.35.27:547][ 62]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Dragon/Drag_Material/Material.Material
+[2026.06.24-18.35.28:189][ 62]MaterialEditorStats: Texture samplers: 0/16
+[2026.06.24-18.35.28:189][ 62]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.06.24-18.35.28:189][ 62]MaterialEditorStats: Shader Count: 0
+[2026.06.24-18.35.28:190][ 62]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.24-18.35.28:200][ 62]LogSlate: Took 0.005370 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.06.24-18.35.28:405][ 64]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 4
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 1
+[2026.06.24-18.35.28:405][ 64]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 4
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 0
+[2026.06.24-18.35.28:405][ 64]MaterialEditorStats: Texture samplers: 1/16
+[2026.06.24-18.35.28:405][ 64]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.06.24-18.35.28:405][ 64]MaterialEditorStats: Shader Count: 3
+[2026.06.24-18.35.28:405][ 64]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.24-18.35.33:593][227]LogSlate: Window 'Material' being destroyed
+[2026.06.24-18.35.38:494][495]LogMaterial: Display: Material /Game/Dragon/Drag_Material/Material.Material needed to have new flag set bUsedWithSkeletalMesh !
+[2026.06.24-18.35.38:494][495]LogMaterial: Display: Material /Engine/Transient.Material needed to have new flag set bUsedWithSkeletalMesh !
+[2026.06.24-18.35.38:538][495]MaterialEditorStats: Texture samplers: 0/16
+[2026.06.24-18.35.38:538][495]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.06.24-18.35.38:538][495]MaterialEditorStats: Shader Count: 0
+[2026.06.24-18.35.38:538][495]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.24-18.35.38:587][496]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 4
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 1
+[2026.06.24-18.35.38:587][496]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 4
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 0
+[2026.06.24-18.35.38:587][496]MaterialEditorStats: Texture samplers: 1/16
+[2026.06.24-18.35.38:587][496]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.06.24-18.35.38:587][496]MaterialEditorStats: Shader Count: 8
+[2026.06.24-18.35.38:587][496]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.24-18.35.38:969][508]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 4
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 1
+[2026.06.24-18.35.38:969][508]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 4
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 0
+[2026.06.24-18.35.38:969][508]MaterialEditorStats: Base pass vertex shader: 291 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 4
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 0
+[2026.06.24-18.35.38:969][508]MaterialEditorStats: Texture samplers: 1/16
+[2026.06.24-18.35.38:969][508]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.06.24-18.35.38:969][508]MaterialEditorStats: Shader Count: 16
+[2026.06.24-18.35.38:969][508]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.24-18.35.40:270][576]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-18.35.40:311][576]LogFileHelpers: Saving Map: /Game/Scene/Scene_Setup
+[2026.06.24-18.35.40:312][576]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Scene/Scene_Setup] ([1] browsable assets)...
+[2026.06.24-18.35.40:312][576]OBJ SavePackage: Finished generating thumbnails for package [/Game/Scene/Scene_Setup]
+[2026.06.24-18.35.40:356][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.06.24-18.35.40:440][576]LogSavePackage: Moving output files for package: /Game/Scene/Scene_Setup
+[2026.06.24-18.35.40:440][576]LogSavePackage: Moving '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Saved/Scene_Setup1E2152294DCC9D90C1A2B89A99C17E95.tmp' to '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Content/Scene/Scene_Setup.umap'
+[2026.06.24-18.35.40:460][576]LogFileHelpers: InternalPromptForCheckoutAndSave took 189.653 ms (total: 9.25 sec)
+[2026.06.24-18.35.40:520][576]LogContentValidation: Enabled validators:
+[2026.06.24-18.35.40:520][576]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.24-18.35.40:520][576]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.24-18.35.40:520][576]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.24-18.35.40:520][576]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.24-18.35.40:520][576]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.24-18.35.40:520][576]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.24-18.35.40:520][576]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.24-18.35.40:520][576]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.24-18.35.40:520][576]AssetCheck: /Game/Scene/Scene_Setup Validating asset
+[2026.06.24-18.35.40:520][576]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.24-18.35.40:520][576]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.24-18.36.01:023][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_15]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:023][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_15]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:023][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_15]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:023][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_15]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:023][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_15]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:023][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_15]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:023][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_15]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:023][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_15]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:023][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_15]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:024][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_11]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:024][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_11]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:024][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_11]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:024][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_11]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:024][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_11]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:024][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_11]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:024][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_11]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:024][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_11]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:024][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_11]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:024][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_10]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:024][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_10]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:024][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_10]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:024][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_10]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:024][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_10]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:024][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_10]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:024][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_10]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:024][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_10]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:024][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_10]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:024][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_6]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:024][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_6]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:024][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_6]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:024][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_6]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:024][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_6]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:024][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_6]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:024][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_6]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:024][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_6]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.01:024][337]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_6]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_15]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_15]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_15]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_15]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_15]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_15]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_15]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_15]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_15]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_11]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_11]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_11]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_11]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_11]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_11]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_11]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_11]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_11]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_10]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_10]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_10]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_10]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_10]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_10]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_10]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_10]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_10]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_6]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_6]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_6]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_6]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_6]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_6]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_6]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_6]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.02:648][428]LogStaticMesh: Warning: Invalid material [foliage] used on Nanite static mesh [Object_6]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.06.24-18.36.24:789][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.06.24-18.36.25:611][731]LogSlate: Window 'Save Content' being destroyed
+[2026.06.24-18.36.25:620][731]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-18.36.25:668][731]LogFileHelpers: Saving Map: /Game/Scene/Scene_Setup
+[2026.06.24-18.36.25:668][731]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Scene/Scene_Setup] ([1] browsable assets)...
+[2026.06.24-18.36.25:668][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Scene/Scene_Setup]
+[2026.06.24-18.36.25:700][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.06.24-18.36.25:776][731]LogSavePackage: Moving output files for package: /Game/Scene/Scene_Setup
+[2026.06.24-18.36.25:777][731]LogSavePackage: Moving '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Saved/Scene_SetupF258124143EA83D1B20C93B14D621415.tmp' to '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Content/Scene/Scene_Setup.umap'
+[2026.06.24-18.36.25:788][731]LogFileHelpers: Saving Package: /Game/Dragon/Drag_Material/Material
+[2026.06.24-18.36.25:788][731]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dragon/Drag_Material/Material] ([1] browsable assets)...
+[2026.06.24-18.36.25:788][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dragon/Drag_Material/Material]
+[2026.06.24-18.36.25:792][731]LogSavePackage: Moving output files for package: /Game/Dragon/Drag_Material/Material
+[2026.06.24-18.36.25:793][731]LogSavePackage: Moving '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Saved/Material056D4C1548AB401C0AC83B949A2B93A4.tmp' to '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Content/Dragon/Drag_Material/Material.uasset'
+[2026.06.24-18.36.25:802][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 182.422 ms (total: 9.43 sec)
+[2026.06.24-18.36.25:849][731]LogContentValidation: Enabled validators:
+[2026.06.24-18.36.25:849][731]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.24-18.36.25:849][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.24-18.36.25:849][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.24-18.36.25:849][731]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.24-18.36.25:849][731]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.24-18.36.25:849][731]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.24-18.36.25:849][731]LogContentValidation: Display: Starting to validate 2 assets (0 associated objects such as actors)
+[2026.06.24-18.36.25:849][731]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.24-18.36.25:849][731]AssetCheck: /Game/Scene/Scene_Setup Validating asset
+[2026.06.24-18.36.25:849][731]AssetCheck: /Game/Dragon/Drag_Material/Material Validating asset
+[2026.06.24-18.36.25:849][731]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.24-18.36.25:849][731]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 2
+[2026.06.24-18.36.25:875][731]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.24-18.36.27:036][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.06.24-18.36.27:038][798]LogStreaming: Display: FlushAsyncLoading(637): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.24-18.36.27:078][798]LogStaticMesh: Display: Building static mesh Nintendo_Controller (Required Memory Estimate: 44.63223 MB)...
+[2026.06.24-18.36.27:083][798]LogChaosDD: Creating Chaos Debug Draw Scene for world Product_Control_Scene
+[2026.06.24-18.36.27:086][798]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scene/Product_Control_Scene.Product_Control_Scene
+[2026.06.24-18.36.27:095][798]LogTexture: Display: Building textures: /Game/Textures/Nintendo_Controller_openPBR_shader1_BaseColor.Nintendo_Controller_openPBR_shader1_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 388.083323 MB), EncodeSpeed: Fast
+[2026.06.24-18.36.27:099][798]LogTexture: Display: Building textures: /Game/Textures/Nintendo_Controller_openPBR_shader1_OcclusionRoughnessMetallic.Nintendo_Controller_openPBR_shader1_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 388.083323 MB), EncodeSpeed: Fast
+[2026.06.24-18.36.27:100][798]LogTexture: Display: Building textures: /Game/Textures/Nintendo_Controller_openPBR_shader1_Normal.Nintendo_Controller_openPBR_shader1_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.06.24-18.36.27:139][798]LogWorld: UWorld::CleanupWorld for Scene_Setup, bSessionEnded=true, bCleanupResources=true
+[2026.06.24-18.36.27:139][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-18.36.27:179][798]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.24-18.36.27:188][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.06.24-18.36.27:206][798]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Model/Nintendo_Controller) ...
+[2026.06.24-18.36.27:295][798]LogStaticMesh: Built static mesh [0.22s] /Game/Model/Nintendo_Controller.Nintendo_Controller
+[2026.06.24-18.36.27:352][798]LogWorld: UWorld::CleanupWorld for Product_Control_Scene, bSessionEnded=true, bCleanupResources=true
+[2026.06.24-18.36.27:353][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-18.36.27:373][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.06.24-18.36.27:393][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.06.24-18.36.27:396][798]LogAudio: Display: Audio Device (ID: 1) registered with world 'Product_Control_Scene'.
+[2026.06.24-18.36.27:396][798]LogChaosDD: Creating Chaos Debug Draw Scene for world Product_Control_Scene
+[2026.06.24-18.36.27:413][798]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.06.24-18.36.27:433][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.06.24-18.36.27:440][798]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.06.24-18.36.27:440][798]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.048ms to complete.
+[2026.06.24-18.36.27:531][800]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.24-18.36.38:555][443]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Textures/Controller.Controller
+[2026.06.24-18.36.38:901][443]MaterialEditorStats: Texture samplers: 0/16
+[2026.06.24-18.36.38:901][443]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.06.24-18.36.38:901][443]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.24-18.36.38:902][443]MaterialEditorStats: Shader Count: 0
+[2026.06.24-18.36.38:902][443]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.24-18.36.38:991][445]MaterialEditorStats: Base pass shader: 198 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 7
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 4
+[2026.06.24-18.36.38:991][445]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 5
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 0
+[2026.06.24-18.36.38:991][445]MaterialEditorStats: Texture samplers: 4/16
+[2026.06.24-18.36.38:991][445]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.06.24-18.36.38:991][445]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.24-18.36.38:991][445]MaterialEditorStats: Shader Count: 5
+[2026.06.24-18.36.38:992][445]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.24-18.36.44:154][749]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.06.24-18.36.44:154][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-18.36.44:197][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.06.24-18.36.45:637][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.06.24-18.36.45:638][831]LogStreaming: Display: FlushAsyncLoading(639): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.24-18.36.45:714][831]LogChaosDD: Creating Chaos Debug Draw Scene for world Scene_Setup
+[2026.06.24-18.36.45:718][831]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scene/Scene_Setup.Scene_Setup
+[2026.06.24-18.36.45:718][831]Cmd: MAP LOAD FILE="../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Content/Scene/Scene_Setup.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.06.24-18.36.45:733][831]LogWorld: UWorld::CleanupWorld for Product_Control_Scene, bSessionEnded=true, bCleanupResources=true
+[2026.06.24-18.36.45:733][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-18.36.45:751][831]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.24-18.36.45:753][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.06.24-18.36.45:803][831]LogWorld: UWorld::CleanupWorld for Scene_Setup, bSessionEnded=true, bCleanupResources=true
+[2026.06.24-18.36.45:803][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.24-18.36.45:831][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.06.24-18.36.45:850][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.06.24-18.36.45:908][831]LogAudio: Display: Audio Device (ID: 1) registered with world 'Scene_Setup'.
+[2026.06.24-18.36.45:908][831]LogChaosDD: Creating Chaos Debug Draw Scene for world Scene_Setup
+[2026.06.24-18.36.45:942][831]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.06.24-18.36.45:961][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.06.24-18.36.45:969][831]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.06.24-18.36.45:969][831]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.055ms to complete.
+[2026.06.24-18.36.46:085][833]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.24-18.37.11:358][719]LogStreaming: Display: FlushAsyncLoading(645): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.24-18.37.11:364][719]LogInterchangeEngine: [Pending] Importing
+[2026.06.24-18.37.11:364][719]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/chhat/Desktop/NABA/Technical Art/Textures/Dragon/Dragon_MI_b09_00_drg_eye1_BaseColor.png]
+[2026.06.24-18.37.11:364][719]LogInterchangeEngine: [Pending] Importing - Importing (2)
+[2026.06.24-18.37.11:364][719]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/chhat/Desktop/NABA/Technical Art/Textures/Dragon/Dragon_MI_b09_00_drg_eye1_Normal.png]
+[2026.06.24-18.37.11:365][719]LogInterchangeEngine: [Pending] Importing - Importing (3)
+[2026.06.24-18.37.11:365][719]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/chhat/Desktop/NABA/Technical Art/Textures/Dragon/Dragon_MI_b09_00_drg_eye1_OcclusionRoughnessMetallic.png]
+[2026.06.24-18.37.11:365][719]LogInterchangeEngine: [Pending] Importing - Importing (4)
+[2026.06.24-18.37.11:365][719]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/chhat/Desktop/NABA/Technical Art/Textures/Dragon/Dragon_MI_b09_00_drg_hair1_BaseColor.png]
+[2026.06.24-18.37.11:366][719]LogInterchangeEngine: [Pending] Importing - Importing (5)
+[2026.06.24-18.37.11:366][719]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/chhat/Desktop/NABA/Technical Art/Textures/Dragon/Dragon_MI_b09_00_drg_hair1_Normal.png]
+[2026.06.24-18.37.11:367][719]LogInterchangeEngine: [Pending] Importing - Importing (6)
+[2026.06.24-18.37.11:367][719]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/chhat/Desktop/NABA/Technical Art/Textures/Dragon/Dragon_MI_b09_00_drg_hair1_OcclusionRoughnessMetallic.png]
+[2026.06.24-18.37.11:472][721]LogStreaming: Display: FlushAsyncLoading(651): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.24-18.37.11:527][724]LogTexture: Display: Building textures: /Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_eye1_BaseColor.Dragon_MI_b09_00_drg_eye1_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 388.083323 MB), EncodeSpeed: Fast
+[2026.06.24-18.37.11:532][724]LogInterchangePipeline: Display: Auto-detected normal map
+[2026.06.24-18.37.11:548][725]LogTexture: Display: Building textures: /Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_eye1_Normal.Dragon_MI_b09_00_drg_eye1_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.06.24-18.37.11:548][725]LogTexture: Display: Building textures: /Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_eye1_OcclusionRoughnessMetallic.Dragon_MI_b09_00_drg_eye1_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 388.083323 MB), EncodeSpeed: Fast
+[2026.06.24-18.37.11:718][725]LogInterchangePipeline: Display: Auto-detected normal map
+[2026.06.24-18.37.11:719][725]LogTexture: Display: Building textures: /Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_hair1_BaseColor.Dragon_MI_b09_00_drg_hair1_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 388.083323 MB), EncodeSpeed: Fast
+[2026.06.24-18.37.11:727][726]LogTexture: Display: Building textures: /Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_hair1_Normal.Dragon_MI_b09_00_drg_hair1_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.06.24-18.37.11:731][726]LogTexture: Display: Building textures: /Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_hair1_OcclusionRoughnessMetallic.Dragon_MI_b09_00_drg_hair1_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 388.083323 MB), EncodeSpeed: Fast
+[2026.06.24-18.37.11:827][726]LogInterchangeEngine: Display: Interchange import completed [C:/Users/chhat/Deskt... Art/Textures/Dragon/Dragon_MI_b09_00_drg_eye1_BaseColor.png]
+[2026.06.24-18.37.11:827][726]LogInterchangeEngine: [Pending] Importing - Importing (5)
+[2026.06.24-18.37.11:827][726]LogInterchangeEngine: Display: Interchange import completed [C:/Users/chhat/Deskt... Art/Textures/Dragon/Dragon_MI_b09_00_drg_eye1_Normal.png]
+[2026.06.24-18.37.11:827][726]LogInterchangeEngine: [Pending] Importing - Importing (4)
+[2026.06.24-18.37.11:828][726]LogInterchangeEngine: Display: Interchange import completed [C:/Users/chhat/Deskt... Art/Textures/Dragon/Dragon_MI_b09_00_drg_eye1_OcclusionRoughnessMetallic.png]
+[2026.06.24-18.37.11:828][726]LogInterchangeEngine: [Pending] Importing - Importing (3)
+[2026.06.24-18.37.11:899][727]LogInterchangeEngine: Display: Interchange import completed [C:/Users/chhat/Deskt... Art/Textures/Dragon/Dragon_MI_b09_00_drg_hair1_BaseColor.png]
+[2026.06.24-18.37.11:899][727]LogInterchangeEngine: [Pending] Importing - Importing (2)
+[2026.06.24-18.37.11:899][727]LogInterchangeEngine: Display: Interchange import completed [C:/Users/chhat/Deskt... Art/Textures/Dragon/Dragon_MI_b09_00_drg_hair1_Normal.png]
+[2026.06.24-18.37.11:899][727]LogInterchangeEngine: [Pending] Importing - Importing (1)
+[2026.06.24-18.37.11:899][727]LogInterchangeEngine: Display: Interchange import completed [C:/Users/chhat/Deskt... Art/Textures/Dragon/Dragon_MI_b09_00_drg_hair1_OcclusionRoughnessMetallic.png]
+[2026.06.24-18.37.11:914][727]LogInterchangeEngine: Display: Import Done in 0.546876 seconds.
+[2026.06.24-18.37.11:914][727]LogInterchangeEngine: [Pending] Importing - Operation Completed.
+[2026.06.24-18.37.11:914][727]LogInterchangeEngine: [Success] Import Done
+[2026.06.24-18.37.13:109][789]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-18.37.13:158][789]LogFileHelpers: Saving Package: /Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_eye1_BaseColor
+[2026.06.24-18.37.13:158][789]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_eye1_BaseColor] ([1] browsable assets)...
+[2026.06.24-18.37.13:160][789]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_eye1_BaseColor.Dragon_MI_b09_00_drg_eye1_BaseColor]
+[2026.06.24-18.37.13:160][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_eye1_BaseColor]
+[2026.06.24-18.37.13:185][789]LogSavePackage: Moving output files for package: /Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_eye1_BaseColor
+[2026.06.24-18.37.13:185][789]LogSavePackage: Moving '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Saved/Dragon_MI_b09_00_drg_eye1_BaseCoC792D2384F9E79E6411C3084908BAC53.tmp' to '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Content/Dragon/Drag_Material/Dragon_MI_b09_00_drg_eye1_BaseColor.uasset'
+[2026.06.24-18.37.13:186][789]LogFileHelpers: Saving Package: /Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_eye1_Normal
+[2026.06.24-18.37.13:186][789]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_eye1_Normal] ([1] browsable assets)...
+[2026.06.24-18.37.13:188][789]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_eye1_Normal.Dragon_MI_b09_00_drg_eye1_Normal]
+[2026.06.24-18.37.13:188][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_eye1_Normal]
+[2026.06.24-18.37.13:212][789]LogSavePackage: Moving output files for package: /Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_eye1_Normal
+[2026.06.24-18.37.13:212][789]LogSavePackage: Moving '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Saved/Dragon_MI_b09_00_drg_eye1_NormalF416FEF94785964382B59AB9B09B3C17.tmp' to '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Content/Dragon/Drag_Material/Dragon_MI_b09_00_drg_eye1_Normal.uasset'
+[2026.06.24-18.37.13:213][789]LogFileHelpers: Saving Package: /Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_eye1_OcclusionRoughnessMetallic
+[2026.06.24-18.37.13:213][789]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_eye1_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2026.06.24-18.37.13:214][789]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_eye1_OcclusionRoughnessMetallic.Dragon_MI_b09_00_drg_eye1_OcclusionRoughnessMetallic]
+[2026.06.24-18.37.13:214][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_eye1_OcclusionRoughnessMetallic]
+[2026.06.24-18.37.13:238][789]LogSavePackage: Moving output files for package: /Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_eye1_OcclusionRoughnessMetallic
+[2026.06.24-18.37.13:238][789]LogSavePackage: Moving '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Saved/Dragon_MI_b09_00_drg_eye1_OcclusB879C65C4F8AF2695C0298AE2D115EE0.tmp' to '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Content/Dragon/Drag_Material/Dragon_MI_b09_00_drg_eye1_OcclusionRoughnessMetallic.uasset'
+[2026.06.24-18.37.13:239][789]LogFileHelpers: Saving Package: /Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_hair1_BaseColor
+[2026.06.24-18.37.13:239][789]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_hair1_BaseColor] ([1] browsable assets)...
+[2026.06.24-18.37.13:241][789]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_hair1_BaseColor.Dragon_MI_b09_00_drg_hair1_BaseColor]
+[2026.06.24-18.37.13:241][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_hair1_BaseColor]
+[2026.06.24-18.37.13:268][789]LogSavePackage: Moving output files for package: /Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_hair1_BaseColor
+[2026.06.24-18.37.13:270][789]LogSavePackage: Moving '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Saved/Dragon_MI_b09_00_drg_hair1_BaseC249B7F2A4C9188CD823ACB83A24A2CB8.tmp' to '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Content/Dragon/Drag_Material/Dragon_MI_b09_00_drg_hair1_BaseColor.uasset'
+[2026.06.24-18.37.13:271][789]LogFileHelpers: Saving Package: /Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_hair1_Normal
+[2026.06.24-18.37.13:271][789]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_hair1_Normal] ([1] browsable assets)...
+[2026.06.24-18.37.13:273][789]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_hair1_Normal.Dragon_MI_b09_00_drg_hair1_Normal]
+[2026.06.24-18.37.13:273][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_hair1_Normal]
+[2026.06.24-18.37.13:304][789]LogSavePackage: Moving output files for package: /Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_hair1_Normal
+[2026.06.24-18.37.13:304][789]LogSavePackage: Moving '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Saved/Dragon_MI_b09_00_drg_hair1_Norma0E739E4B46A539A4BC01DF918158B9D3.tmp' to '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Content/Dragon/Drag_Material/Dragon_MI_b09_00_drg_hair1_Normal.uasset'
+[2026.06.24-18.37.13:305][789]LogFileHelpers: Saving Package: /Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_hair1_OcclusionRoughnessMetallic
+[2026.06.24-18.37.13:306][789]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_hair1_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2026.06.24-18.37.13:307][789]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_hair1_OcclusionRoughnessMetallic.Dragon_MI_b09_00_drg_hair1_OcclusionRoughnessMetallic]
+[2026.06.24-18.37.13:307][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_hair1_OcclusionRoughnessMetallic]
+[2026.06.24-18.37.13:338][789]LogSavePackage: Moving output files for package: /Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_hair1_OcclusionRoughnessMetallic
+[2026.06.24-18.37.13:338][789]LogSavePackage: Moving '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Saved/Dragon_MI_b09_00_drg_hair1_Occlu2FFE4141422D8B4C0F2534B2C804513A.tmp' to '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Content/Dragon/Drag_Material/Dragon_MI_b09_00_drg_hair1_OcclusionRoughnessMetallic.uasset'
+[2026.06.24-18.37.13:350][789]LogFileHelpers: InternalPromptForCheckoutAndSave took 240.237 ms (total: 9.67 sec)
+[2026.06.24-18.37.13:392][789]LogContentValidation: Enabled validators:
+[2026.06.24-18.37.13:392][789]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.24-18.37.13:392][789]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.24-18.37.13:392][789]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.24-18.37.13:392][789]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.24-18.37.13:392][789]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.24-18.37.13:392][789]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.24-18.37.13:392][789]LogContentValidation: Display: Starting to validate 6 assets (0 associated objects such as actors)
+[2026.06.24-18.37.13:392][789]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.24-18.37.13:393][789]AssetCheck: /Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_eye1_BaseColor Validating asset
+[2026.06.24-18.37.13:393][789]AssetCheck: /Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_eye1_Normal Validating asset
+[2026.06.24-18.37.13:393][789]AssetCheck: /Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_eye1_OcclusionRoughnessMetallic Validating asset
+[2026.06.24-18.37.13:393][789]AssetCheck: /Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_hair1_BaseColor Validating asset
+[2026.06.24-18.37.13:393][789]AssetCheck: /Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_hair1_Normal Validating asset
+[2026.06.24-18.37.13:393][789]AssetCheck: /Game/Dragon/Drag_Material/Dragon_MI_b09_00_drg_hair1_OcclusionRoughnessMetallic Validating asset
+[2026.06.24-18.37.13:393][789]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.24-18.37.13:393][789]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 6
+[2026.06.24-18.37.13:424][789]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.24-18.37.36:087][123]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20342.515625
+[2026.06.24-18.37.36:287][135]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.24-18.37.36:287][135]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20342.701172, Update Interval: 345.686218
+[2026.06.24-18.37.43:478][547]LogShaderCompilers: Display: Cancelled job 0x0000027697171E00 with pending SubmitJob call.
+[2026.06.24-18.37.43:487][547]MaterialEditorStats: Texture samplers: 0/16
+[2026.06.24-18.37.43:487][547]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.06.24-18.37.43:487][547]MaterialEditorStats: Shader Count: 0
+[2026.06.24-18.37.43:487][547]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.24-18.37.43:557][549]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 4
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 1
+[2026.06.24-18.37.43:557][549]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 4
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 0
+[2026.06.24-18.37.43:557][549]MaterialEditorStats: Texture samplers: 1/16
+[2026.06.24-18.37.43:557][549]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.06.24-18.37.43:557][549]MaterialEditorStats: Shader Count: 5
+[2026.06.24-18.37.43:557][549]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.24-18.37.49:081][871]MaterialEditorStats: Texture samplers: 0/16
+[2026.06.24-18.37.49:081][871]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.06.24-18.37.49:081][871]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.24-18.37.49:081][871]MaterialEditorStats: Shader Count: 0
+[2026.06.24-18.37.49:081][871]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.24-18.37.49:147][873]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 5
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 0
+[2026.06.24-18.37.49:147][873]MaterialEditorStats: Texture samplers: 0/16
+[2026.06.24-18.37.49:147][873]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.06.24-18.37.49:147][873]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.24-18.37.49:147][873]MaterialEditorStats: Shader Count: 2
+[2026.06.24-18.37.49:147][873]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.24-18.37.49:414][889]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 5
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 0
+[2026.06.24-18.37.49:414][889]MaterialEditorStats: Texture samplers: 1/16
+[2026.06.24-18.37.49:414][889]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.06.24-18.37.49:414][889]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.24-18.37.49:414][889]MaterialEditorStats: Shader Count: 3
+[2026.06.24-18.37.49:414][889]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.24-18.37.49:514][895]MaterialEditorStats: Base pass shader: 186 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 5
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 2
+[2026.06.24-18.37.49:514][895]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 5
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 0
+[2026.06.24-18.37.49:514][895]MaterialEditorStats: Texture samplers: 2/16
+[2026.06.24-18.37.49:514][895]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.06.24-18.37.49:514][895]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.24-18.37.49:514][895]MaterialEditorStats: Shader Count: 4
+[2026.06.24-18.37.49:514][895]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display: ================================================
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display: Total job queries 1,180, among them cache hits 300 (25.42%), DDC hits 509 (43.14%), Duplicates 114 (9.66%)
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display: Tracking 766 distinct input hashes that result in 502 distinct outputs (65.54%)
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display: RAM used: 5.87 MiB of 1.60 GiB budget. Usage: 0.36%
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display: Shaders Compiled: 257
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display: Jobs assigned 257, completed 257 (100%)
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display: Average time worker was idle: 1536.22 s
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display: Time job spent in pending queue: average 0.53 s, longest 2.70 s
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display: Job execution time: average 0.97 s, max 2.72 s
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display: Job life time (pending + execution): average 1.50 s, max 3.25
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display: Shader code size: total 2.748 MiB, numShaders 265, average 10.621 KiB, min 1.727 KiB, max 51.711 KiB
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 18.63 s
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display: Jobs were issued in 176 batches (only local compilation was used), average 1.46 jobs/batch
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display: Average processing rate: 13.79 jobs/sec
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display: Total thread time: 81.907 s
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display: Total thread preprocess time: 17.862 s
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display: Percentage time preprocessing: 21.81%
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display: Effective parallelization: 4.40 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.274769
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 1.08 sec, max 1.08 sec, min 1.08 sec)
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    7 times, average 0.88 sec, max 0.97 sec, min 0.66 sec)
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    3 times, average 0.87 sec, max 1.25 sec, min 0.49 sec)
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   12 times, average 0.85 sec, max 1.08 sec, min 0.60 sec)
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    4 times, average 0.71 sec, max 1.08 sec, min 0.48 sec)
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display:                                             FDebugViewModePS - 12.66% of total time (compiled   18 times, average 0.58 sec, max 1.01 sec, min 0.37 sec)
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 12.44% of total time (compiled   12 times, average 0.85 sec, max 1.08 sec, min 0.60 sec)
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 8.13% of total time (compiled   12 times, average 0.55 sec, max 0.85 sec, min 0.33 sec)
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 7.50% of total time (compiled    7 times, average 0.88 sec, max 0.97 sec, min 0.66 sec)
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.03% of total time (compiled   25 times, average 0.20 sec, max 0.36 sec, min 0.10 sec)
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display: === Material stats ===
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display: Materials Translated:    274
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display: Material Total Translate Time: 0.24 s
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display: Material Translation Only: 0.16 s (65%)
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display: Material Cache Hits: 29 (11%)
+[2026.06.24-18.37.56:848][330]LogShaderCompilers: Display: ================================================
+[2026.06.24-18.37.59:678][497]MaterialEditorStats: Texture samplers: 0/16
+[2026.06.24-18.37.59:678][497]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.06.24-18.37.59:678][497]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.24-18.37.59:678][497]MaterialEditorStats: Shader Count: 0
+[2026.06.24-18.37.59:678][497]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.24-18.37.59:771][499]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 5
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 0
+[2026.06.24-18.37.59:771][499]MaterialEditorStats: Texture samplers: 0/16
+[2026.06.24-18.37.59:771][499]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.06.24-18.37.59:771][499]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.24-18.37.59:771][499]MaterialEditorStats: Shader Count: 2
+[2026.06.24-18.37.59:771][499]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.24-18.37.59:838][503]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 5
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 0
+[2026.06.24-18.37.59:838][503]MaterialEditorStats: Texture samplers: 1/16
+[2026.06.24-18.37.59:838][503]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.06.24-18.37.59:838][503]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.24-18.37.59:838][503]MaterialEditorStats: Shader Count: 3
+[2026.06.24-18.37.59:838][503]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.24-18.37.59:938][509]MaterialEditorStats: Base pass shader: 189 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 6
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 3
+[2026.06.24-18.37.59:938][509]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 5
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 0
+[2026.06.24-18.37.59:938][509]MaterialEditorStats: Texture samplers: 3/16
+[2026.06.24-18.37.59:938][509]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.06.24-18.37.59:938][509]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.24-18.37.59:938][509]MaterialEditorStats: Shader Count: 4
+[2026.06.24-18.37.59:938][509]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.24-18.38.12:985][277]MaterialEditorStats: Texture samplers: 0/16
+[2026.06.24-18.38.12:985][277]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.06.24-18.38.12:985][277]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.24-18.38.12:985][277]MaterialEditorStats: Shader Count: 0
+[2026.06.24-18.38.12:985][277]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.24-18.38.13:061][279]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 5
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 0
+[2026.06.24-18.38.13:061][279]MaterialEditorStats: Texture samplers: 0/16
+[2026.06.24-18.38.13:061][279]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.06.24-18.38.13:061][279]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.24-18.38.13:061][279]MaterialEditorStats: Shader Count: 2
+[2026.06.24-18.38.13:061][279]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.24-18.38.13:144][284]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 5
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 0
+[2026.06.24-18.38.13:144][284]MaterialEditorStats: Texture samplers: 2/16
+[2026.06.24-18.38.13:144][284]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.06.24-18.38.13:144][284]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.24-18.38.13:144][284]MaterialEditorStats: Shader Count: 3
+[2026.06.24-18.38.13:144][284]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.24-18.38.13:245][290]MaterialEditorStats: Base pass shader: 197 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 7
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 4
+[2026.06.24-18.38.13:245][290]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 5
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 0
+[2026.06.24-18.38.13:245][290]MaterialEditorStats: Texture samplers: 4/16
+[2026.06.24-18.38.13:245][290]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.06.24-18.38.13:245][290]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.24-18.38.13:245][290]MaterialEditorStats: Shader Count: 4
+[2026.06.24-18.38.13:245][290]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.24-18.38.22:076][804]LogMaterialEditor: Saving and Compiling material Material
+[2026.06.24-18.38.23:394][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.06.24-18.38.24:336][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.06.24-18.38.24:346][804]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-18.38.24:397][804]LogFileHelpers: Saving Package: /Game/Dragon/Drag_Material/Material
+[2026.06.24-18.38.24:398][804]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dragon/Drag_Material/Material] ([1] browsable assets)...
+[2026.06.24-18.38.24:450][804]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Dragon/Drag_Material/Material.Material]
+[2026.06.24-18.38.24:450][804]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dragon/Drag_Material/Material]
+[2026.06.24-18.38.24:456][804]LogSavePackage: Moving output files for package: /Game/Dragon/Drag_Material/Material
+[2026.06.24-18.38.24:457][804]LogSavePackage: Moving '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Saved/Material34C5A781452751B7B820258F85BB8A27.tmp' to '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Content/Dragon/Drag_Material/Material.uasset'
+[2026.06.24-18.38.24:464][804]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.078 ms (total: 9.79 sec)
+[2026.06.24-18.38.24:514][804]LogContentValidation: Enabled validators:
+[2026.06.24-18.38.24:514][804]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.24-18.38.24:514][804]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.24-18.38.24:514][804]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.24-18.38.24:514][804]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.24-18.38.24:514][804]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.24-18.38.24:514][804]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.24-18.38.24:514][804]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.24-18.38.24:514][804]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.24-18.38.24:514][804]AssetCheck: /Game/Dragon/Drag_Material/Material Validating asset
+[2026.06.24-18.38.24:514][804]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.24-18.38.24:514][804]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.24-18.38.24:524][804]MaterialEditorStats: Base pass shader: 197 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 7
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 4
+[2026.06.24-18.38.24:524][804]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 5
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 0
+[2026.06.24-18.38.24:524][804]MaterialEditorStats: Base pass vertex shader: 293 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 4
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 0
+[2026.06.24-18.38.24:524][804]MaterialEditorStats: Texture samplers: 4/16
+[2026.06.24-18.38.24:524][804]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.06.24-18.38.24:524][804]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.24-18.38.24:524][804]MaterialEditorStats: Shader Count: 19
+[2026.06.24-18.38.24:524][804]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.24-18.38.35:465][437]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-18.38.35:515][437]LogFileHelpers: Saving Map: /Game/Scene/Scene_Setup
+[2026.06.24-18.38.35:516][437]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Scene/Scene_Setup] ([1] browsable assets)...
+[2026.06.24-18.38.35:516][437]OBJ SavePackage: Finished generating thumbnails for package [/Game/Scene/Scene_Setup]
+[2026.06.24-18.38.35:549][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.06.24-18.38.35:763][437]LogSavePackage: Moving output files for package: /Game/Scene/Scene_Setup
+[2026.06.24-18.38.35:763][437]LogSavePackage: Moving '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Saved/Scene_SetupF4DACC5945A51257BB76B5B57E8ABF23.tmp' to '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Content/Scene/Scene_Setup.umap'
+[2026.06.24-18.38.35:782][437]LogFileHelpers: InternalPromptForCheckoutAndSave took 316.200 ms (total: 10.1 sec)
+[2026.06.24-18.38.35:829][437]LogContentValidation: Enabled validators:
+[2026.06.24-18.38.35:829][437]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.24-18.38.35:829][437]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.24-18.38.35:829][437]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.24-18.38.35:829][437]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.24-18.38.35:829][437]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.24-18.38.35:829][437]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.24-18.38.35:829][437]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.24-18.38.35:829][437]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.24-18.38.35:829][437]AssetCheck: /Game/Scene/Scene_Setup Validating asset
+[2026.06.24-18.38.35:829][437]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.24-18.38.35:829][437]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.24-18.38.46:835][ 93]MaterialEditorStats: Texture samplers: 0/16
+[2026.06.24-18.38.46:835][ 93]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.06.24-18.38.46:835][ 93]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.24-18.38.46:835][ 93]MaterialEditorStats: Shader Count: 0
+[2026.06.24-18.38.46:835][ 93]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.24-18.38.46:925][ 95]MaterialEditorStats: Base pass shader: 189 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 6
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 3
+[2026.06.24-18.38.46:925][ 95]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 5
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 0
+[2026.06.24-18.38.46:925][ 95]MaterialEditorStats: Texture samplers: 3/16
+[2026.06.24-18.38.46:925][ 95]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.06.24-18.38.46:925][ 95]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.24-18.38.46:925][ 95]MaterialEditorStats: Shader Count: 5
+[2026.06.24-18.38.46:925][ 95]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.24-18.38.48:766][205]LogMaterialEditor: Saving and Compiling material Material
+[2026.06.24-18.38.48:830][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.06.24-18.38.49:744][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.06.24-18.38.49:755][205]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-18.38.49:806][205]LogFileHelpers: Saving Package: /Game/Dragon/Drag_Material/Material
+[2026.06.24-18.38.49:806][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dragon/Drag_Material/Material] ([1] browsable assets)...
+[2026.06.24-18.38.49:858][205]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Dragon/Drag_Material/Material.Material]
+[2026.06.24-18.38.49:858][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dragon/Drag_Material/Material]
+[2026.06.24-18.38.49:865][205]LogSavePackage: Moving output files for package: /Game/Dragon/Drag_Material/Material
+[2026.06.24-18.38.49:866][205]LogSavePackage: Moving '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Saved/Material9A95C87145BA630947338C82607B24BE.tmp' to '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Content/Dragon/Drag_Material/Material.uasset'
+[2026.06.24-18.38.49:873][205]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.700 ms (total: 10.2 sec)
+[2026.06.24-18.38.49:916][205]LogContentValidation: Enabled validators:
+[2026.06.24-18.38.49:916][205]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.24-18.38.49:917][205]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.24-18.38.49:917][205]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.24-18.38.49:917][205]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.24-18.38.49:917][205]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.24-18.38.49:917][205]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.24-18.38.49:917][205]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.24-18.38.49:917][205]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.24-18.38.49:917][205]AssetCheck: /Game/Dragon/Drag_Material/Material Validating asset
+[2026.06.24-18.38.49:917][205]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.24-18.38.49:917][205]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.24-18.38.49:924][205]MaterialEditorStats: Base pass shader: 189 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 6
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 3
+[2026.06.24-18.38.49:924][205]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 5
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 0
+[2026.06.24-18.38.49:924][205]MaterialEditorStats: Base pass vertex shader: 293 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 4
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 0
+[2026.06.24-18.38.49:924][205]MaterialEditorStats: Texture samplers: 3/16
+[2026.06.24-18.38.49:924][205]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.06.24-18.38.49:924][205]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.24-18.38.49:924][205]MaterialEditorStats: Shader Count: 19
+[2026.06.24-18.38.49:924][205]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.24-18.38.53:619][426]MaterialEditorStats: Texture samplers: 0/16
+[2026.06.24-18.38.53:619][426]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.06.24-18.38.53:619][426]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.24-18.38.53:619][426]MaterialEditorStats: Shader Count: 0
+[2026.06.24-18.38.53:619][426]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.24-18.38.53:666][428]MaterialEditorStats: Base pass shader: 186 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 5
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 2
+[2026.06.24-18.38.53:666][428]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 5
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 0
+[2026.06.24-18.38.53:666][428]MaterialEditorStats: Texture samplers: 2/16
+[2026.06.24-18.38.53:666][428]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.06.24-18.38.53:666][428]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.24-18.38.53:666][428]MaterialEditorStats: Shader Count: 5
+[2026.06.24-18.38.53:666][428]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.24-18.38.55:498][538]LogMaterialEditor: Saving and Compiling material Material
+[2026.06.24-18.38.55:561][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.06.24-18.38.56:265][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.06.24-18.38.56:275][538]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.24-18.38.56:325][538]LogFileHelpers: Saving Package: /Game/Dragon/Drag_Material/Material
+[2026.06.24-18.38.56:325][538]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dragon/Drag_Material/Material] ([1] browsable assets)...
+[2026.06.24-18.38.56:376][538]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Dragon/Drag_Material/Material.Material]
+[2026.06.24-18.38.56:376][538]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dragon/Drag_Material/Material]
+[2026.06.24-18.38.56:382][538]LogSavePackage: Moving output files for package: /Game/Dragon/Drag_Material/Material
+[2026.06.24-18.38.56:383][538]LogSavePackage: Moving '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Saved/Material36E0AA344271F976B386E9B571F99098.tmp' to '../../../../../../../Users/chhat/Desktop/NABA/Technical Art/Unreal/Import/Technical-Art-Setup/Prabhdeep_TA/Content/Dragon/Drag_Material/Material.uasset'
+[2026.06.24-18.38.56:389][538]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.093 ms (total: 10.3 sec)
+[2026.06.24-18.38.56:436][538]LogContentValidation: Enabled validators:
+[2026.06.24-18.38.56:436][538]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.24-18.38.56:436][538]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.24-18.38.56:436][538]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.24-18.38.56:436][538]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.24-18.38.56:436][538]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.24-18.38.56:436][538]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.24-18.38.56:436][538]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.24-18.38.56:436][538]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.24-18.38.56:436][538]AssetCheck: /Game/Dragon/Drag_Material/Material Validating asset
+[2026.06.24-18.38.56:436][538]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.24-18.38.56:436][538]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.24-18.38.56:444][538]MaterialEditorStats: Base pass shader: 186 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 5
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 2
+[2026.06.24-18.38.56:444][538]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 5
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 0
+[2026.06.24-18.38.56:444][538]MaterialEditorStats: Base pass vertex shader: 293 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 4
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 0
+[2026.06.24-18.38.56:444][538]MaterialEditorStats: Texture samplers: 2/16
+[2026.06.24-18.38.56:444][538]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.06.24-18.38.56:444][538]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.24-18.38.56:444][538]MaterialEditorStats: Shader Count: 19
+[2026.06.24-18.38.56:444][538]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.24-18.39.08:656][263]Cmd: TRANSACTION UNDO
+[2026.06.24-18.39.08:656][263]LogEditorTransaction: Undo Set Rotation
+[2026.06.24-18.39.11:083][396]Cmd: TRANSACTION UNDO
+[2026.06.24-18.39.11:083][396]LogEditorTransaction: Undo Set Rotation
+[2026.06.24-18.39.13:820][560]Cmd: TRANSACTION UNDO
+[2026.06.24-18.39.13:820][560]LogEditorTransaction: Undo Set Rotation
